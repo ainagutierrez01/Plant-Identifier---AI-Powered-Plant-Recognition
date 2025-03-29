@@ -1,18 +1,6 @@
 # Plant-Identifier---AI-Powered-Plant-Recognition
 AI-powered web application that helps users identify plants instantly by uploading images. 
 
-🚀 Features
-
-📸 Upload Plant Images: Identify plants by uploading an image.
-
-🤖 AI-Powered Recognition: Uses an AI model to recognize plant species.
-
-🎨 Responsive UI: Fully responsive, mobile-friendly design.
-
-⚡ Fast & Optimized: Built with Next.js for improved performance.
-
-
-
 
 
 
