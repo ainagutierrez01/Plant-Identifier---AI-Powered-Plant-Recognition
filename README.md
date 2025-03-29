@@ -11,7 +11,11 @@ AI-powered web application that helps users identify plants instantly by uploadi
 
 ⚡ Fast & Optimized: Built with Next.js for improved performance.
 
-🌍 SEO-Friendly: Pre-rendering for better search engine visibility.
+
+
+
+
+
 
 🛠️ Installation & Setup
 
